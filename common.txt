@@ -1,0 +1,12 @@
+admin/
+login/
+config/
+backup/
+wp-admin/
+phpmyadmin/
+robots.txt
+sitemap.xml
+.env
+config.php
+backup.zip
+db.sql
