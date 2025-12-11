@@ -19,7 +19,7 @@ Este código. Ele é basicamente um **código de varredura** que utiliza a bibli
 
 Ele foi desenvolvido em **Python** e precisa de uma **wordlist** (`.txt`) para funcionar, pois é a partir dessa lista que o script monta e testa os caminhos na aplicação. Existem outros métodos para fazer essa descoberta de forma mais automática, sem depender de wordlist, mas, para permanecer no **modo ético e controlado**, optei por usar apenas uma wordlist simples.
 
-A ideia é utilizar esse código em **auditorias autorizadas**, estudos e laboratórios de segurança — nunca para atacar sistemas de terceiros sem permissão.
+A ideia é utilizar esse código em **auditorias autorizadas**, estudos e laboratórios de segurança, nunca para atacar sistemas de terceiros sem permissão.
 
 ---
 
